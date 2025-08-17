@@ -3,6 +3,7 @@ src/*
 # Source files list
 !src/helloworld.c
 !src/helloworld.cpp
+!src/helloworld.dart
 !src/helloworld.go
 !src/helloworld.java
 !src/helloworld.js

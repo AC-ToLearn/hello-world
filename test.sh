@@ -4,6 +4,9 @@ gcc --version
 # gcc -v
 # g++ -v
 
+# Dart
+dart --version
+
 # Go
 go version
 

@@ -9,6 +9,10 @@ gcc helloworld.c -o outfile && ./outfile
 echo "====== C++ ======"
 g++ helloworld.cpp -o outfile && ./outfile
 
+# Dart
+echo "====== Dart ======"
+dart helloworld.dart
+
 # Go
 echo "====== Go ======"
 go run helloworld.go
