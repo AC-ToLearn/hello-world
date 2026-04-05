@@ -25,6 +25,10 @@ java helloworld.java
 echo "====== JavaScript ======"
 node helloworld.js
 
+# Kotlin
+echo "====== Kotlin ======"
+
+
 # Lua
 echo "====== Lua ======"
 lua helloworld.lua
